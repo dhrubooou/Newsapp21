@@ -24,10 +24,5 @@ It uses the **NewsAPI** to fetch and display the latest news articles from vario
 
 ---
 
-## ⚙️ Setup Instructions
-
-1. Clone the repository or download the project files:
-   ```bash
-   git clone https://github.com/your-username/news-app.git
 ## 🎥 Demo Video
 [▶ Watch Demo on YouTube](https://youtu.be/zHpGEe1xXew)
