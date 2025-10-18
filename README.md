@@ -30,3 +30,4 @@ It uses the **NewsAPI** to fetch and display the latest news articles from vario
    ```bash
    git clone https://github.com/your-username/news-app.git
 ## 🎥 Demo Video
+https://github.com/dhrubooou/Newsapp21/blob/main/demo.mp4
